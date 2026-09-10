@@ -9,7 +9,7 @@
 ## Project Structure
 
 ```text
-project-name/
+Numerical-Simulation-of-Wave-Equations/
 ├── README.md
 ├── paper/
 │   ├── paper.pdf
