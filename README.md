@@ -6,13 +6,13 @@
 [Short Description of the Project and Goals]. Project developed under the guidance of Professor Nicholls at the University of Illinois at Chicago.
 
 ## Deliverables
-- **Research Paper:** [Paper Title](link)
+- **Research Paper:** [Paper Title](link), Current State: [Overleaf](https://www.overleaf.com/read/xbrhzxtpjykh#3ebb95)
     - Problem statement and objectives
     - Theory of waves, finite-difference algorithm, convergence
     - Program design and implementation
     - Computational complexity and error analysis
-    - Conclusion
-***Current State:** [Overleaf](https://www.overleaf.com/read/xbrhzxtpjykh#3ebb95)
+    - Conclusion \
+    
 - **Software:** [Program / Source Code](link)
 
 ## Project Structure
