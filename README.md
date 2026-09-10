@@ -1,6 +1,6 @@
 # Numerical Simulation of Wave Equations Using the Finite Difference Method
 
-**Authors:** Harry Alvarado, Erik Vazquez, Victor Dorojan, Will Brown
+**Authors:** Harry Alvarado, Erik Vazquez, Victor Dorojan, Will Brown\
 **Advisor:** Professor Nicholls, University of Illinois Chicago
 
 [Short Description of the Project and Goals]. Project developed under the guidance of Professor Nicholls at the University of Illinois at Chicago.
