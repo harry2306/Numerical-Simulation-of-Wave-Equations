@@ -7,6 +7,11 @@
 
 ## Deliverables
 - **Research Paper:** [Paper Title](link)
+    - Problem statement and objectives
+    - Theory of waves, finite-difference algorithm, convergence and stability
+    - Program design and implementation
+    - Computational complexity and error analysis
+    - Conclusion
 - **Software:** [Program / Source Code](link)
 
 ## Project Structure
