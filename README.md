@@ -8,7 +8,7 @@
 
 ## Project Structure
 
-'''text
+```text
 project-name/
 ├── paper/
 │   └── paper.pdf
@@ -16,7 +16,7 @@ project-name/
     ├── src/
     ├── include/
     └── tests/
-'''
+```
 
 ## Resources
 1. Lectures Produced by Professor Nicholls:
