@@ -12,6 +12,7 @@
 project-name/
 ├── paper/
 │   └── paper.pdf
+|   └── paper.tex
 └── software/
     ├── src/
     ├── include/
