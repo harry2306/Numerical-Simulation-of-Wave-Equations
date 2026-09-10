@@ -24,5 +24,5 @@ Numerical-Simulation-of-Wave-Equations/
 
 ## Resources
 1. Lectures Produced by Professor Nicholls:
-  1. [LEC1]
+  1. [LEC1](Lectures/introduction.pdf)
 
