@@ -10,6 +10,7 @@
 
 ```text
 project-name/
+├── README.md
 ├── paper/
 │   └── paper.pdf
 |   └── paper.tex
