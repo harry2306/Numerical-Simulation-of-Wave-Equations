@@ -12,12 +12,14 @@
 project-name/
 ├── README.md
 ├── paper/
-│   └── paper.pdf
-|   └── paper.tex
-└── software/
-    ├── src/
-    ├── include/
-    └── tests/
+│   ├── paper.pdf
+│   └── paper.tex
+├── software/
+│   ├── src/
+│   ├── include/
+│   └── tests/
+└── Resources/
+    └── Lectures/
 ```
 
 ## Resources
