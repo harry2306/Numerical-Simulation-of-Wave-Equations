@@ -34,5 +34,6 @@ Numerical-Simulation-of-Wave-Equations/
 ## Resources
 1. Lectures Produced by Professor Nicholls:
     1. [LEC1](Lectures/Introduction.pdf)
-2. Finite-Difference Textbook [Textbook](https://tevza.org/home/course/modelling-II_2016/books/Leveque%20-%20Finite%20Difference%20Methods.pdf)
+2. Finite Difference Methods for Ordinary and Partial Differential Equations by LeVeque [Textbook](https://tevza.org/home/course/modelling-II_2016/books/Leveque%20-%20Finite%20Difference%20Methods.pdf)
+3. Text on Wave Equations: 
 
