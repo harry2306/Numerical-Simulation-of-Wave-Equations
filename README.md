@@ -11,7 +11,7 @@
     - Theory of waves, finite-difference algorithm, convergence
     - Program design and implementation
     - Computational complexity and error analysis
-    - Conclusion \
+    - Conclusion 
     
 - **Software:** [Program / Source Code](link)
 
